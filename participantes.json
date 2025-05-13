@@ -1,0 +1,482 @@
+[
+    {
+        "nombre": "Ana P\u00e9rez",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Andr\u00e9s Ram\u00edrez",
+        "sexo": "Masculino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Aristarco Alcaino",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Asurbanipal Vargas",
+        "sexo": "Masculino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Beatriz Romero",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Bruno D\u00edaz",
+        "sexo": "Masculino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Camila P\u00e9rez",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Carla G\u00f3mez",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Carlos Ruiz",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Carmela Opazo",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "ni\u00f1o"
+    },
+    {
+        "nombre": "Catalina D\u00edaz",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Clara Mu\u00f1oz",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Clodomira Mu\u00f1oz",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "ni\u00f1o"
+    },
+    {
+        "nombre": "Daniel P\u00e9rez",
+        "sexo": "Masculino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "David Morales",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial Power",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Diego Herrera",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial Power",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Elena Vargas",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Elisa Jim\u00e9nez",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Esteban Gonz\u00e1lez",
+        "sexo": "Masculino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Estrella Vargas",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Eva C\u00e1ceres",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Fabio L\u00f3pez",
+        "sexo": "Masculino",
+        "categoria": "Anciano Power",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Fabio P\u00e9rez",
+        "sexo": "Masculino",
+        "categoria": "Anciano Power",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Fannie Saavedra",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Felipe Guti\u00e9rrez",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial Power",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Fernando L\u00f3pez",
+        "sexo": "Masculino",
+        "categoria": "Anciano Power",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Flavio Saavedra",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial Power",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Florencia D\u00edaz",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Florencia Morales",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Francisco Guti\u00e9rrez",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial Power",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Gabriela Mu\u00f1oz",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "ni\u00f1o"
+    },
+    {
+        "nombre": "Gabriela Torres",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "ni\u00f1o"
+    },
+    {
+        "nombre": "Guiselle Osorio",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Isabel S\u00e1nchez",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Jazm\u00edn Silva",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "ni\u00f1o"
+    },
+    {
+        "nombre": "Jimena Blanco",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Jimena Blanco",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Joaqu\u00edn Albornoz",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial Power",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Jorge Fern\u00e1ndez",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Jorge Miranda",
+        "sexo": "Masculino",
+        "categoria": "Anciano",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Josefina Salazar",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Juan P\u00e9rez Cotapo",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Juan Ram\u00edrez",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Julia Ansieta",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "ni\u00f1o"
+    },
+    {
+        "nombre": "Julieta Fern\u00e1ndez",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Julieta Olivares",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Juli\u00e1n C\u00e1ceres",
+        "sexo": "Masculino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Karina Saavedra",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Laura Castillo",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Luc\u00eda Torres",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Luis Bravo",
+        "sexo": "Masculino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Luis Espinoza",
+        "sexo": "Masculino",
+        "categoria": "Anciano Power",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Luis Silva",
+        "sexo": "Masculino",
+        "categoria": "Siervo Ministerial",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Mariana P\u00e9rez",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Maribel Rosa",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Marta Romero",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Mar\u00eda C\u00e1ceres",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Mar\u00eda L\u00f3pez",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Nefertiti Quevedo",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Nicole Nilechuga",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "ni\u00f1o"
+    },
+    {
+        "nombre": "Palmera Reyes",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Paula Garc\u00eda",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Paulina Hern\u00e1ndez",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Pericles G\u00f3mez",
+        "sexo": "Masculino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "ni\u00f1o"
+    },
+    {
+        "nombre": "Pierre Andersen",
+        "sexo": "Masculino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Rosa Fern\u00e1ndez",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Rossana Rosas",
+        "sexo": "Femenino",
+        "categoria": "Acompa\u00f1ante",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Sarezer Paredes",
+        "sexo": "Masculino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Sergio Paulo",
+        "sexo": "Masculino",
+        "categoria": "Anciano",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Silvia Lara",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Sof\u00eda Mart\u00ednez",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Sonia Silva",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Tamara Espinoza",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Tom V\u00e1squez",
+        "sexo": "Masculino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "ni\u00f1o"
+    },
+    {
+        "nombre": "Valeria C\u00e1ceres",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Vanessa Silva",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Victoria Guevara",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "ni\u00f1o"
+    },
+    {
+        "nombre": "Viviana Gajardo",
+        "sexo": "Femenino",
+        "categoria": "Publicador Fuerte",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Zoila Correa",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    },
+    {
+        "nombre": "Zooey Miranda",
+        "sexo": "Femenino",
+        "categoria": "Publicador D\u00e9bil",
+        "edad": "adulto"
+    }
+]
