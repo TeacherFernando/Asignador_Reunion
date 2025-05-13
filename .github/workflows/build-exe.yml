@@ -28,7 +28,7 @@ jobs:
         pyinstaller --onefile --windowed --icon=orador.ico asignador_reunion.py
 
     - name: Upload EXE artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: asignador_reunion
         path: dist/asignador_reunion.exe
