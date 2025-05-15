@@ -23,9 +23,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install pyinstaller
 
-    - name: Build with PyInstaller
+    - name: Build EXE with PyInstaller
       run: |
-        pyinstaller --onefile --windowed --icon=orador.ico asignador_reunion.py
+        pyinstaller --noconfirm --clean --onefile --windowed ^
+          --icon=orador.ico ^
+          --add-binary "%LOCALAPPDATA%\Programs\Python\Python310\python310.dll;." ^
+          asignador_reunion.py
 
     - name: Upload EXE artifact
       uses: actions/upload-artifact@v4
